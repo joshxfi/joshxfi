@@ -17,10 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshxfi&show_icons=true&theme=highcontrast&title_color=2bff00&hide_border=true&locale=en&layout=compact" alt="joshxfi" /></p>
 
 <div><div/>
-<div><div/>
-<div><div/>
-<div><div/>
-<div><div/>
-<div><div/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshxfi&show_icons=true&title_color=26ff00&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="joshxfi" /></p>
