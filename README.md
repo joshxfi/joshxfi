@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Daniel</h1>
 <h3 align="center">A passionate React.js developer from Philippines</h3>
 
+
 - 🌱 I’m currently learning **TypeScript & Golang**
 
 - 👨‍💻 All of my projects are available at [joshxfi.pages.dev](joshxfi.pages.dev)
