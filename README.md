@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Daniel</h1>
 <h3 align="center">A passionate React.js developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshxfi&label=Profile%20views&color=34d714&style=flat" alt="joshxfi" /> </p>
-
 - 🌱 I’m currently learning **TypeScript & Golang**
 
 - 👨‍💻 All of my projects are available at [joshxfi.pages.dev](joshxfi.pages.dev)
