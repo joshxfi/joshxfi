@@ -12,6 +12,10 @@
 <a href="https://discord.gg/!xfi#0008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="!xfi#0008" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshxfi&show_icons=true&theme=highcontrast&title_color=2bff00&hide_border=true&locale=en&layout=compact" alt="joshxfi" /></p>
+
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshxfi&show_icons=true&title_color=26ff00&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="joshxfi" /></p>
