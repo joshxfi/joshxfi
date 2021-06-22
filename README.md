@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Golang**
 
-- 👨‍💻 All of my projects are available at [joshxfi.pages.dev](joshxfi.pages.dev)
+- 👨‍💻 All of my projects are available at [joshxfi.pages.dev](https://joshxfi.pages.dev)
 
 - 📫 How to reach me **joshpersonal8@gmail.com**
 
