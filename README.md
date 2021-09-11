@@ -1,13 +1,7 @@
 <div align=center>
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+| Hi, I'm 17 years old & I have a great interest in full-stack development. I'm an autodidact dev who learned/studied from youtube & reading docs. I'm knowledgeable in TypeScript, React.js, Next.js, Express.js, Tailwind CSS, Sass, MongoDB, Firebase, etc... My favorite stack (currently) is React.js + Tailwind CSS + Firebase. |
+|---|
   
 </div>
 
@@ -24,8 +18,9 @@
 
 <div align=center>
   
-  ![](https://komarev.com/ghpvc/?username=joshxfi&color=blue) <br>
-  started counting on 9/6/21
+  | ![](https://komarev.com/ghpvc/?username=joshxfi&color=blue) |
+  |---|
+  *started counting on 9/6/21*
   
 </div>
 
