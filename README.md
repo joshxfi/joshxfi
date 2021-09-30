@@ -12,7 +12,7 @@
 
 <br>
 
-<div align=center>
+<!-- <div align=center>
   
   | ![](https://komarev.com/ghpvc/?username=joshxfi&color=blue) |
   |---|
@@ -23,11 +23,6 @@
 <!-- <div align=center>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div> -->
-
-<br>
-
-[//]: # (started counting on 9/5/21)
-
 
 
 
